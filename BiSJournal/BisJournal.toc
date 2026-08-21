@@ -1,0 +1,9 @@
+## Interface: 120005
+## Title: BiS Journal
+## Notes: Alt+click items in the Dungeon Journal to add them to your BiS list
+## Author: Treran
+## Version: 1.0.5
+## SavedVariables: BiSJournalDB
+
+BiSJournal.lua
+BiSJournalOptions.lua
