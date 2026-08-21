@@ -22,7 +22,5 @@ jobs:
 
       - name: Package and upload to CurseForge
         uses: BigWigsMods/packager@v2
-        with:
-          args: -d BiSJournal
         env:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
