@@ -2,10 +2,8 @@ name: Package and publish WoW addon
 
 on:
   push:
-    branches:
-      - main
     tags:
-      - "*"
+      - "v*"
 
 permissions:
   contents: read
