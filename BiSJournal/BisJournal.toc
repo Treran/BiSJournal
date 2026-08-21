@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120100
 ## Title: BiS Journal
 ## Notes: Alt+click items in the Dungeon Journal to add them to your BiS list
 ## Author: Treran
