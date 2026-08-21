@@ -4,6 +4,7 @@
 ## Author: Treran
 ## Version: 1.0.5
 ## SavedVariables: BiSJournalDB
+## X-Curse-Project-ID: 1217214
 
 BiSJournal.lua
 BiSJournalOptions.lua
